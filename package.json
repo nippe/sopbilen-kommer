@@ -1,0 +1,17 @@
+{
+  "name": "sopbilen-kommer",
+  "version": "0.0.1",
+  "description": "Serverless lambda som SMS:ar kvällen innan sopbilen dyker up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lambda",
+    "serverless",
+    "sms",
+    "textmessage"
+  ],
+  "author": "Niklas Nihlen <niklas.nihlen@gmail.com>",
+  "license": "MIT"
+}
